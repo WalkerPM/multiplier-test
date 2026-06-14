@@ -1,0 +1,6 @@
+{
+  "name": "Диагностика Табличное умножение",
+  "description": "Диагностика устного счёта по таблице умножения с таймером в 1:30 мин.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
